@@ -1,18 +1,18 @@
 .mainbox{
-    background-color: dimgray;
-}
-
-.leftside{
-    background-color: aqua;
-}
-
-.main{
-    background-color: dimgray;
-}
-.rightside{
     background-color: red;
 }
 
+.leftside{
+    background-color: blue;
+}
+
+.main{
+    background-color: yellow;
+}
+.rightside{
+    background-color: pink;
+}
+
 .footer{
-    background-color: aqua;
+    background-color: orange;
 }
